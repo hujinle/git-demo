@@ -1,7 +1,7 @@
 <?php
 
 /**
- * ECSHOP mobile 首页
+ * ECSHOP mobile   aaa bbbb首页
  * ============================================================================
  * * 版权所有 2005-2012 上海商派网络科技有限公司，并保留所有权利。
  * 网站地址: http://www.ecshop.com；
@@ -13,7 +13,7 @@
  * $Id: index.php 15013 2010-03-25 09:31:42Z liuhui $
 */
 
-define('IN_ECS', true);
+define('IN_ECS', false);
 define('ECS_ADMIN', true);
 
 require(dirname(__FILE__) . '/includes/init.php');
