@@ -38,6 +38,12 @@ if ($best_num > 0)
     $smarty->assign('best_goods' , $best_goods);
 }
 
+
+
+skdjfsdkjflksjkdflj
+sdjfsjdf;klsdjf
+dsfsjadfsjdfkj;lkj
+
 /* 热门商品 */
 $hot_goods = get_recommend_goods_wap('hot',2);
 $hot_num = count($hot_goods);
